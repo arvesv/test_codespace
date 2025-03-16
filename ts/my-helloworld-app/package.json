@@ -1,0 +1,20 @@
+{
+  "name": "my-helloworld-app",
+  "version": "1.0.0",
+  "description": "A simple Hello World application in TypeScript",
+  "main": "dist/app.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/app.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/my-helloworld-app.git"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
